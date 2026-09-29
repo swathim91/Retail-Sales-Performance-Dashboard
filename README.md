@@ -107,12 +107,20 @@ Both dashboard pages include synchronized filters for:
 **Year | Region | Category**
 These allow users to explore performance across different periods, geographical regions and product categories.
 
-## Project File
-The complete Power BI report is available in this repository:
+## Power BI Project File
 
-`Retail_Sales_Performance_Dashboard.pbix`
+The original Power BI (`.pbix`) file is not publicly distributed to protect the project's original work and dashboard design.
+
+The project file is available upon request for recruitment or portfolio review purposes.
+
+## Usage
+
+This repository is provided for portfolio and educational viewing purposes. The dashboard design, analysis and project documentation may not be reproduced or presented as another person's work without permission.
+
+© 2026 Swathi Murali. All rights reserved.
 
 ## Author
+
 **Swathi Murali**
 
-MSc Business Analytics  
+MSc Business Analytics
